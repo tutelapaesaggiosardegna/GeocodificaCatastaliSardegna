@@ -5,7 +5,7 @@ version=1.0.0
 author=TutelaPaesaggioSardegna
 email=tutelapaesaggiosardegna@gmail.com
 description=Esporta e geocodifica particelle catastali della Sardegna.
-about=Plugin QGIS per l'esportazione geometrica delle particelle catastali della Sardegna. Supporta filtro per provincia, comune e foglio, e l'inserimento di più particelle separate da virgola. Usa il dataset ufficiale dell'Agenzia delle Entrate (AdE).
+about=Plugin QGIS per l’esportazione delle geometrie catastali relative al territorio della Sardegna.
 homepage=https://www.tutelapaesaggiosardegna.info
 repository=https://github.com/tutelapaesaggiosardegna/GeocodificaCatastaliSardegna
 tracker=https://github.com/tutelapaesaggiosardegna/GeocodificaCatastaliSardegna/issues
@@ -18,5 +18,6 @@ license=GPL-3.0-only
 
 [changelog]
 1.0.0=Prima pubblicazione.
+
 
 
